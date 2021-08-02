@@ -1,0 +1,26 @@
+body {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    }   
+         .descuento{background-color:black;
+          color:white;
+         }
+     header{
+          display:flex;
+          flex-direction:row;
+          background-color: #f04838;
+         justify-content: center;
+         flex-wrap:wrap;
+      }
+      .descuento {
+    
+         width:100;
+         background-color: #3C2313;
+         color:white;
+         align-items: center;
+    } 
+         nav{
+              flex-direction: rom;
+    
+         }
